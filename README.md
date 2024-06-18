@@ -4,7 +4,7 @@ In this case study i was given a  dataset about a fictionous software company ca
 <h1>Objejctives</h1>
 I was tasked with carrrying out exploratory data analysis and using DAX to help build powerful measures for different visualizations. Then diving deeper into attrition and what factors impact attrition. With a final goal of helping the organization determine what action they will need to take to retain more employees.
 
-<h1>Steps Takne</h1>
+<h1>Steps Taken</h1>
 I started by creating an overview page with main info regarding the employees that are available and different number of active and inactive employees<br>
 I proceeded to create a Demographics page with information about ethnicity and age by comparing these with the amounts of the employees and average salaries as well<br>
 In the third page I was tasked to create a performance tracker for each employee in which their ratings and manager ratings where easily visible after choosing each employee<br>
